@@ -1,7 +1,17 @@
 .App {
   text-align: center;
 }
-
+.text-field{
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  width: 75%;
+}
+.text-btn{
+  padding-top: 5px !important;
+  padding-bottom: 5px !important;
+  width: 50%;
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
